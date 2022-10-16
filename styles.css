@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8";>    
+  <script type="text/javascript" src="script.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>See if your show is in the database</h1>      
+  <div class="searchArea">
+      
+    <input type="text" id="searchbox" placeholder="Search a show">
+  </div>    
+  <ul id="resultsList"></ul>
+
+  
+<div class="footer">
+    <p>lab2-javascript-gcropper17</p>
+  
+</div>     
+</body>
+</html>
